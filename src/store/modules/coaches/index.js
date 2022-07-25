@@ -11,7 +11,7 @@ export default {
         {
           id: 'c1',
           firstName: 'Gabriel',
-          lastName: 'Burg',
+          lastName: 'Smith',
           areas: ['frontend', 'backend', 'career'],
           description:
             "I'm Gabe and I've worked as a freelance web developer for years. Let me help you become a developer as well!",
@@ -20,7 +20,7 @@ export default {
         {
           id: 'c2',
           firstName: 'Noah',
-          lastName: 'Burg',
+          lastName: 'Johnson',
           areas: ['frontend', 'career'],
           description:
             'I am Noah and as a senior developer in a big tech company, I can help you get your first job or progress in your current role.',
